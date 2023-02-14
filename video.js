@@ -75,7 +75,7 @@ playButton.addEventListener("click", function() {
   
   pauseAudio(); 
   const video = document.createElement("iframe");
-  video.src = "https://youtu.be/E7cSgjdzJ0o?autoplay=1";
+  video.src = "https://www.youtube.com/embed/E7cSgjdzJ0o";
   video.frameborder = "0";
   video.allowFullscreen = "1";
   video.width = "100%";
